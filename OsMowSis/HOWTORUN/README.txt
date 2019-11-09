@@ -1,0 +1,1 @@
+Import project to eclipse. Then Right click project and export as runnable JAR. Or navigate to /src and run  javac *.java
